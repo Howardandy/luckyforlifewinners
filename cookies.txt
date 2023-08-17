@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+luckyforlife.us	TRUE	/	FALSE	1999999999	ARRAffinity	6a6afb561d84a5e1890ac4496bd71279f7ce8fbe761d9e4f45f8411a63af9409
+luckyforlife.us	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	6a6afb561d84a5e1890ac4496bd71279f7ce8fbe761d9e4f45f8411a63af9409
+luckyforlife.us	TRUE	/	FALSE	1999999999	SameSite	None
+
